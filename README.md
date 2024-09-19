@@ -13,3 +13,5 @@ Setup:
   Take the assembled machine code and paste it into the debugger in logism.
 Usage:
   Load the assembly code and visualize the execution process.
+
+The assembler and debugger are not included in this repository due to ownership restrictions.
